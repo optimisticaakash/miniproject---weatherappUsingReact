@@ -1,5 +1,5 @@
 
-import WeatherApp from "./WeatherApp";
+import WeatherApp from "./WeatherApp.jsx";
 
 function App() {
   let handleClick = () => {
